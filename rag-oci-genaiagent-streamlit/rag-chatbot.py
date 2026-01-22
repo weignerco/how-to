@@ -27,8 +27,7 @@ service_ep = "https://agent-runtime.generativeai.ap-osaka-1.oci.oraclecloud.com"
 
 # Agent Endpoint ID - update this with your own agent endpoint OCID
 # this can be found within Generative AI Agents > Agents > (Your Agent) > Endpoints > (Your Endpoint) > OCID
-agent_ep_id = "ocid1.genaiagentendpoint.oc1.ap-osaka-1.xyz"
-
+agent_ep_id = "ocid1.genaiagentendpoint.oc1.ap-osaka-1.xyz-change-this-text"
 
 # Response Generator
 def response_generator(textinput):
