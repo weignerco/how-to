@@ -23,8 +23,8 @@ python3 -m venv venvdemo
 source venvdemo/bin/activate
 
 # 3. Install required packages inside the virtual environment
-pip install python==3.9.6
-pip install streamlit oci
+pip3 install python==3.9.6
+pip3 install streamlit oci
 
 # Verify the versions of the installed packages
 python3 --version
